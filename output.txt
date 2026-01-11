@@ -1,0 +1,108 @@
+====================================================================================================
+FULLY FIXED BACKTEST - BOTH ENTRY_ORDERS AND entry_signal_generated BUGS FIXED!
+====================================================================================================
+
+[OK] Step 1: Generating 5000 candles...
+   - Candles: 30000
+   - Price range: $100.08 -> $56.46
+
+[OK] Step 2: Creating strategy configuration...
+
+[OK] Step 3: Creating backtest configuration...
+
+[OK] Step 4: Initializing backtest engine...
+
+[OK] Step 5: Running backtest...
+
+====================================================================================================
+BACKTEST PROGRESS
+====================================================================================================
+
+   Processed 500 candles - Entries: 6, Exits: 5
+   Processed 1000 candles - Entries: 6, Exits: 5
+   Processed 1500 candles - Entries: 6, Exits: 5
+   Processed 2000 candles - Entries: 6, Exits: 5
+   Processed 2500 candles - Entries: 6, Exits: 5
+   Processed 3000 candles - Entries: 6, Exits: 5
+   Processed 3500 candles - Entries: 6, Exits: 5
+   Processed 4000 candles - Entries: 6, Exits: 5
+   Processed 4500 candles - Entries: 6, Exits: 5
+   Processed 5000 candles - Entries: 6, Exits: 5
+   Processed 5500 candles - Entries: 6, Exits: 5
+   Processed 6000 candles - Entries: 6, Exits: 5
+   Processed 6500 candles - Entries: 6, Exits: 5
+   Processed 7000 candles - Entries: 6, Exits: 5
+   Processed 7500 candles - Entries: 6, Exits: 5
+   Processed 8000 candles - Entries: 6, Exits: 5
+   Processed 8500 candles - Entries: 6, Exits: 5
+   Processed 9000 candles - Entries: 6, Exits: 5
+   Processed 9500 candles - Entries: 6, Exits: 5
+   Processed 10000 candles - Entries: 6, Exits: 5
+   Processed 10500 candles - Entries: 6, Exits: 5
+   Processed 11000 candles - Entries: 6, Exits: 5
+   Processed 11500 candles - Entries: 6, Exits: 5
+   Processed 12000 candles - Entries: 6, Exits: 5
+   Processed 12500 candles - Entries: 6, Exits: 5
+   Processed 13000 candles - Entries: 6, Exits: 5
+   Processed 13500 candles - Entries: 6, Exits: 5
+   Processed 14000 candles - Entries: 6, Exits: 5
+   Processed 14500 candles - Entries: 6, Exits: 5
+   Processed 15000 candles - Entries: 6, Exits: 5
+   Processed 15500 candles - Entries: 9, Exits: 9
+   Processed 16000 candles - Entries: 13, Exits: 13
+   Processed 16500 candles - Entries: 13, Exits: 13
+   Processed 17000 candles - Entries: 13, Exits: 13
+   Processed 17500 candles - Entries: 13, Exits: 13
+   Processed 18000 candles - Entries: 13, Exits: 13
+   Processed 18500 candles - Entries: 13, Exits: 13
+   Processed 19000 candles - Entries: 13, Exits: 13
+   Processed 19500 candles - Entries: 13, Exits: 13
+   Processed 20000 candles - Entries: 13, Exits: 13
+   Processed 20500 candles - Entries: 13, Exits: 13
+   Processed 21000 candles - Entries: 13, Exits: 13
+   Processed 21500 candles - Entries: 13, Exits: 13
+   Processed 22000 candles - Entries: 13, Exits: 13
+   Processed 22500 candles - Entries: 13, Exits: 13
+   Processed 23000 candles - Entries: 16, Exits: 16
+   Processed 23500 candles - Entries: 28, Exits: 28
+   Processed 24000 candles - Entries: 35, Exits: 36
+   Processed 24500 candles - Entries: 51, Exits: 51
+   Processed 25000 candles - Entries: 55, Exits: 55
+   Processed 25500 candles - Entries: 55, Exits: 55
+   Processed 26000 candles - Entries: 61, Exits: 61
+   Processed 26500 candles - Entries: 67, Exits: 67
+   Processed 27000 candles - Entries: 86, Exits: 86
+   Processed 27500 candles - Entries: 93, Exits: 93
+   Processed 28000 candles - Entries: 99, Exits: 99
+   Processed 28500 candles - Entries: 119, Exits: 120
+   Processed 29000 candles - Entries: 137, Exits: 138
+   Processed 29500 candles - Entries: 141, Exits: 142
+   Processed 30000 candles - Entries: 154, Exits: 156
+
+   Final: Entries: 154, Exits: 156
+
+====================================================================================================
+BACKTEST RESULTS
+====================================================================================================
+
+Performance Metrics:
+  Total Return:                   -4.41%
+  Total Trades:                     156
+  Winning Trades:                   133
+  Losing Trades:                     23
+  Win Rate:                       85.26%
+  Average Win:               $    11.06
+  Average Loss:              $    76.50
+  Profit Factor:                   0.84
+
+Risk Metrics:
+  Max Drawdown:                    0.00%
+  Sharpe Ratio:                    0.00
+  Sortino Ratio:                   0.00
+
+Strategy Statistics:
+  [SUCCESS] STATISTICALLY SIGNIFICANT (156 trades)
+
+====================================================================================================
+BACKTEST COMPLETED!
+====================================================================================================
