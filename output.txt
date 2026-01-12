@@ -106,3 +106,111 @@ Strategy Statistics:
 ====================================================================================================
 BACKTEST COMPLETED!
 ====================================================================================================
+====================================================================================================
+FULLY FIXED BACKTEST - BOTH ENTRY_ORDERS AND entry_signal_generated BUGS FIXED!
+====================================================================================================
+
+[OK] Step 1: Generating 5000 candles...
+   - Candles: 30000
+   - Price range: $100.34 -> $87.96
+
+[OK] Step 2: Creating strategy configuration...
+
+[OK] Step 3: Creating backtest configuration...
+
+[OK] Step 4: Initializing backtest engine...
+
+[OK] Step 5: Running backtest...
+
+====================================================================================================
+BACKTEST PROGRESS
+====================================================================================================
+
+   Processed 500 candles - Entries: 1, Exits: 0
+   Processed 1000 candles - Entries: 1, Exits: 0
+   Processed 1500 candles - Entries: 1, Exits: 0
+   Processed 2000 candles - Entries: 1, Exits: 0
+   Processed 2500 candles - Entries: 1, Exits: 0
+   Processed 3000 candles - Entries: 1, Exits: 0
+   Processed 3500 candles - Entries: 1, Exits: 0
+   Processed 4000 candles - Entries: 1, Exits: 0
+   Processed 4500 candles - Entries: 1, Exits: 0
+   Processed 5000 candles - Entries: 1, Exits: 0
+   Processed 5500 candles - Entries: 1, Exits: 0
+   Processed 6000 candles - Entries: 1, Exits: 0
+   Processed 6500 candles - Entries: 1, Exits: 0
+   Processed 7000 candles - Entries: 1, Exits: 0
+   Processed 7500 candles - Entries: 1, Exits: 0
+   Processed 8000 candles - Entries: 1, Exits: 0
+   Processed 8500 candles - Entries: 1, Exits: 0
+   Processed 9000 candles - Entries: 1, Exits: 0
+   Processed 9500 candles - Entries: 1, Exits: 0
+   Processed 10000 candles - Entries: 1, Exits: 0
+   Processed 10500 candles - Entries: 1, Exits: 0
+   Processed 11000 candles - Entries: 1, Exits: 0
+   Processed 11500 candles - Entries: 1, Exits: 0
+   Processed 12000 candles - Entries: 1, Exits: 0
+   Processed 12500 candles - Entries: 1, Exits: 0
+   Processed 13000 candles - Entries: 1, Exits: 0
+   Processed 13500 candles - Entries: 1, Exits: 0
+   Processed 14000 candles - Entries: 1, Exits: 0
+   Processed 14500 candles - Entries: 1, Exits: 0
+   Processed 15000 candles - Entries: 1, Exits: 0
+   Processed 15500 candles - Entries: 8, Exits: 7
+   Processed 16000 candles - Entries: 8, Exits: 7
+   Processed 16500 candles - Entries: 8, Exits: 7
+   Processed 17000 candles - Entries: 8, Exits: 7
+   Processed 17500 candles - Entries: 8, Exits: 7
+   Processed 18000 candles - Entries: 8, Exits: 7
+   Processed 18500 candles - Entries: 8, Exits: 7
+   Processed 19000 candles - Entries: 8, Exits: 7
+   Processed 19500 candles - Entries: 8, Exits: 7
+   Processed 20000 candles - Entries: 8, Exits: 7
+   Processed 20500 candles - Entries: 8, Exits: 7
+   Processed 21000 candles - Entries: 8, Exits: 7
+   Processed 21500 candles - Entries: 8, Exits: 7
+   Processed 22000 candles - Entries: 8, Exits: 7
+   Processed 22500 candles - Entries: 8, Exits: 7
+   Processed 23000 candles - Entries: 28, Exits: 27
+   Processed 23500 candles - Entries: 43, Exits: 43
+   Processed 24000 candles - Entries: 57, Exits: 57
+   Processed 24500 candles - Entries: 57, Exits: 57
+   Processed 25000 candles - Entries: 57, Exits: 57
+   Processed 25500 candles - Entries: 57, Exits: 57
+   Processed 26000 candles - Entries: 57, Exits: 57
+   Processed 26500 candles - Entries: 57, Exits: 57
+   Processed 27000 candles - Entries: 57, Exits: 57
+   Processed 27500 candles - Entries: 57, Exits: 57
+   Processed 28000 candles - Entries: 57, Exits: 57
+   Processed 28500 candles - Entries: 57, Exits: 57
+   Processed 29000 candles - Entries: 57, Exits: 57
+   Processed 29500 candles - Entries: 57, Exits: 57
+   Processed 30000 candles - Entries: 57, Exits: 57
+
+   Final: Entries: 57, Exits: 57
+
+====================================================================================================
+BACKTEST RESULTS
+====================================================================================================
+
+Performance Metrics:
+  Total Return:                   -1.79%
+  Total Trades:                      57
+  Winning Trades:                    49
+  Losing Trades:                      8
+  Win Rate:                       85.96%
+  Average Win:               $    10.68
+  Average Loss:              $    81.03
+  Profit Factor:                   0.81
+
+Risk Metrics:
+  Max Drawdown:                    0.00%
+  Sharpe Ratio:                    0.00
+  Sortino Ratio:                   0.00
+
+Strategy Statistics:
+  [MODERATE] 57 trades
+
+====================================================================================================
+BACKTEST COMPLETED!
+====================================================================================================
